@@ -1,0 +1,18 @@
+{
+    "name": "hangarlabs/laravel-error-reporting",
+    "description": "Error reporting, notify uncaught exceptions via email.",
+    "keywords": ["laravel", "error", "exception", "reporting", "email"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jorge Leonardo Monge García",
+            "email": "leomongeg@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hangar\\LaravelErrorReporting\\": "src"
+        }
+    }
+}
